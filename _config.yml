@@ -5,7 +5,7 @@
 # Site
 title: 无效的博客
 subtitle: ''
-description: 无效的博客，输出无效的文章
+description: 卖掉武器 风暴喉咙 换取饮食 背叛能让你获得自由
 keywords:
 author: wehuss
 language: zh-CN
@@ -103,3 +103,10 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+
+browsersync:
+  logLevel: "warn"
+  ghostMode:
+    scroll: true
+  instanceName: "uniqueString"
